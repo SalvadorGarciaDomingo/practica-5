@@ -1,5 +1,4 @@
-#primer endpoint dirigido a la pagina principal de la api
-
+#diferestes funciones de la calculadora
 def suma(a: int, b: int):
     suma = a+b
     return suma
